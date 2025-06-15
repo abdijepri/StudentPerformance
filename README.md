@@ -79,12 +79,15 @@ Pada kategori mahasiswa internasional, data menunjukkan bahwa mahasiswa non-inte
 Faktor keuangan memainkan peran penting dalam kelulusan mahasiswa. Data menunjukkan bahwa mahasiswa dengan tunggakan (debtor) memiliki risiko dropout yang jauh lebih tinggi dibandingkan mereka yang tidak memiliki tunggakan. Selain itu, mahasiswa yang membayar biaya kuliah tepat waktu memiliki tingkat kelulusan yang jauh lebih tinggi dibandingkan mereka yang menunggak atau tidak membayar tepat waktu. Hal ini menegaskan bahwa keteraturan dalam pembayaran menjadi indikator penting bagi keberhasilan studi mahasiswa.
 
 ## Menjalankan Sistem Machine Learning
-Jelaskan cara menjalankan protoype sistem machine learning yang telah dibuat. Selain itu, sertakan juga link untuk mengakses prototype tersebut.
+![Image](https://github.com/user-attachments/assets/1db28260-2761-4294-962e-3aa05fefe018)
 
 ```
-
+streamlit run app.py
 ```
 
+[Link Akses Streamlit](https://studentperformance-abdijepri.streamlit.app/)
+
+Catatan: sebelum menjalankan perintah di atas, Anda harus menyelesaikan terlebih dahulu pengaturan lingkungan (environment setup).
 ## Conclusion
 Proyek ini berhasil menghasilkan dashboard analitik interaktif yang dapat digunakan oleh manajemen Jaya Jaya Institut untuk memahami performa akademik mahasiswa secara menyeluruh dan berbasis data. Dengan memanfaatkan data historis dari berbagai aspek — akademik, demografis, hingga administratif — dashboard ini memberikan wawasan penting yang dapat digunakan untuk mengidentifikasi faktor-faktor yang berkontribusi terhadap risiko dropout mahasiswa.
 
